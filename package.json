@@ -1,7 +1,4 @@
 {
-  "name": "A thing",
-  "version": "i forgor",
-  "description": "Whats buffy?",
   "type": "module",
   "scripts": {
     "start": "node index.js"
