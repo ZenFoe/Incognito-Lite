@@ -1,7 +1,7 @@
 {
-  "name": "incognito-lite",
-  "version": "1.0.0",
-  "description": "Unofficial Incognito easy deployment version with TompHTTP bare server included using BUFFY.",
+  "name": "A thing",
+  "version": "i forgor",
+  "description": Whats buffy?",
   "type": "module",
   "scripts": {
     "start": "node index.js"
